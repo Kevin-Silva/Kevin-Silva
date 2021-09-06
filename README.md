@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning :  C++ and Gamming Programming;
+- 🌱 I’m currently learning :  Back-end and Fron-end;
 - 👯 I’m looking to collaborate on : Any project that need some help!
 - 😄 Pronouns: He/Him, Ele;
 
