@@ -1,4 +1,4 @@
-- 🌱 I’m currently learning :  Back-end and Fron-end;
+- 🌱 I’m currently learning :  Back-end;
 - 👯 I’m looking to collaborate on : Any project that need some help!
 - 😄 Pronouns: He/Him, Ele;
 
